@@ -1,4 +1,4 @@
-##DATA API
+## DATA API
 
 
 This git repo is about handling API's for data science and AI.
